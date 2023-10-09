@@ -38,7 +38,7 @@
 1. Open **ESET_Log_Collector** as **administrator** and keep the window visible at the side of the screen.
 1. Run `node tests/<name_of_the_test>.js` **if you have no previous logs** add an "f" as an argument.
    E.g. `node tests/<name_of_the_test>.js f`
-1. Stop using the mouse and the keyboard before it ends.
+1. Await without using the mouse neither the keyboard before it ends.
 
 ---
 
