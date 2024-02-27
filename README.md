@@ -23,6 +23,7 @@
 
 **Only works for the English version!**
 **Developed for Windows10 cant ensure its correct operation in other windows OS!**
+**To use it you in other OS than Win10 with standard color scheme or theme you must provide the program with new captures that match your own scheme/theme**
 
 **Some of the test only work under certain conditions. (They are noted below)**
 **If you have visual settings different from windows default preset, the tests WON'T work.**
