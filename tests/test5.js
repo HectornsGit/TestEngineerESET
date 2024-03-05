@@ -13,7 +13,7 @@ const alreadyTested = [...process.argv].includes("f".toLocaleLowerCase())
   : true;
 
 screen.config.confidence = 0.98;
-screen.config.resourceDirectory = "./images";
+screen.config.resourceDirectory = "../images";
 screen.config.autoHighlight = "on";
 //---------------------------------------------------------------------------------------------
 // Test 5. Set output collection mode to "Filtered binary".

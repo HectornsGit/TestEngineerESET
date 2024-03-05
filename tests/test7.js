@@ -9,7 +9,7 @@ const { mouse, right, down, Button } = require("@nut-tree/nut-js");
 require("@nut-tree/template-matcher");
 
 screen.config.confidence = 0.98;
-screen.config.resourceDirectory = "./images";
+screen.config.resourceDirectory = "../images";
 screen.config.autoHighlight = "on";
 
 //---------------------------------------------------------------------------------------------
