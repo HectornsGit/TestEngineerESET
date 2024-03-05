@@ -24,6 +24,8 @@
 **Only works for the English version!**
 **Developed for Windows10 cant ensure its correct operation in other windows OS!**
 
+**To use it you in other OS than Win10 with standard color scheme or theme you must provide the program with new captures that match your own scheme/theme**
+
 **Some of the test only work under certain conditions. (They are noted below)**
 **If you have visual settings different from windows default preset, the tests WON'T work.**
 
@@ -38,7 +40,7 @@
 1. Open **ESET_Log_Collector** as **administrator** and keep the window visible at the side of the screen.
 1. Run `node tests/<name_of_the_test>.js` **if you have no previous logs** add an "f" as an argument.
    E.g. `node tests/<name_of_the_test>.js f`
-1. Stop using the mouse and the keyboard before it ends.
+1. Await without using the mouse neither the keyboard before it ends.
 
 ---
 
